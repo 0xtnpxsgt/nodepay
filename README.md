@@ -1,4 +1,4 @@
-# nodepay
+# NODEPAY v.1
 
 - You must need to buy a VPS for running Allora Worker
 - You can buy from : Contabo
