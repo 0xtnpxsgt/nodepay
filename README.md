@@ -40,11 +40,6 @@ Install requirements:
 python -m pip install -r requirements.txt
 ```
 
-Install requirements:
-```bash
-python -m pip install -r requirements.txt
-```
-
 ## Edit Proxy
 - Replace the proxies example in proxies.txt to your own proxies, please use only 10 proxies with proxies http only.
 ```bash
