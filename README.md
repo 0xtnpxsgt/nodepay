@@ -12,7 +12,7 @@ Storage: SSD or NVMe with at least 5GB of space.
 
 ## Tools and components required
 - Nodepay Account| Register: https://app.nodepay.ai/register?ref=XufJ19oYRId1omA
-- Proxies Static Residental | FREE 10 PREMIUM PROXIES
+- Proxies Static Residental 
 - VPS (OPTIONAL) and Python3
 
 
