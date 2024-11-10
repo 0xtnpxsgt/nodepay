@@ -12,9 +12,7 @@ Storage: SSD or NVMe with at least 5GB of space.
 
 ## Tools and components required
 - Nodepay Account| Register: https://app.nodepay.ai/register?ref=XufJ19oYRId1omA
-- Proxies Static Residental 
-- VPS (OPTIONAL) and Python3
-
+- Proxies 
 
 ## Setup Tutorial
 - Open Nodepay and login to dashboard
