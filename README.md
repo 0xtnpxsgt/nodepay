@@ -45,9 +45,13 @@ Install requirements:
 python -m pip install -r requirements.txt
 ```
 
-## Run the Bot
+## Edit Proxy
 - Replace the proxies example in proxies.txt to your own proxies, please use only 10 proxies with proxies http only.
+```bash
+nano proxies.txt
+```
 
+## Run the bot
 ```bash
 python3 run.py
 ```
